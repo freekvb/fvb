@@ -4,14 +4,14 @@
      margin: 0;
      padding: 0;
      font-family: verdana,arial,helvetica,sans-serif;
-     color: #CCCCCC;
+     color: #d0ccc7;
      background-color: #47423C;
      text-align: center;
 }
  a {
      text-decoration: none;
      font-weight: bold;
-     color: #CCCCCC;
+     color: #d0ccc7;
 }
  a:visited {
      color: #C3BF9F;
@@ -95,7 +95,7 @@
      margin-bottom: 5px;
 }
  #content {
-     border: 5px solid #CCCCCC;
+     border: 5px solid #d0ccc7;
      margin: 20px auto;
      padding: 10px;
      background: #736D65 none repeat scroll 0 50%;
